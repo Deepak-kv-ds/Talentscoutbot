@@ -27,7 +27,9 @@ TalentScout - AI is a goal driven hiring assistant made for collecting informati
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/yourusername/talentscout-hiring-assistant
+git clone https://github.com/Deepak-kv-ds
+Talentscoutbot/talentscout-hiring-assistant
 cd talentscout-hiring-assistant
 pip install -r requirements.txt
 streamlit run app.py
+
